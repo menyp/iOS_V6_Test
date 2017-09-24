@@ -1,0 +1,124 @@
+<Data>
+
+
+		<Buttons>
+			
+			<BTNloginID>Login</BTNloginID>
+			<BTNAddEnvironment>Add environment</BTNAddEnvironment>
+			<BTNadd>Add</BTNadd>
+			<BTNfillFromBarcode>Fill From Barcode</BTNfillFromBarcode>
+			<BTNenvironmentType>Type</BTNenvironmentType>		
+			
+			
+			
+			<BTNforgotPasswordID></BTNforgotPasswordID>
+			<BTNsettingsLoginScreenID>com.skygiraffe.operationaldata:id/login_screen_settings_image_btn</BTNsettingsLoginScreenID>
+			<BTNsampleAccountID>Sample account</BTNsampleAccountID>
+			<BTNlogout>Log Out</BTNlogout>
+			<BTNcancelForgotPasswordID></BTNcancelForgotPasswordID>	
+			<BTNrecoverPasswordID></BTNrecoverPasswordID>	
+			<BTNresetPasswordID></BTNresetPasswordID>	
+			<BTNdone>Done</BTNdone>
+			<BTNBackName>Back</BTNBackName>
+			<BTNClearName>Clear</BTNClearName>
+			<BTNSlicer>BTNSlicer</BTNSlicer>
+			<BTNmapphoneiconID>BTNmapphoneiconID</BTNmapphoneiconID>
+			<BTNCancel>Cancel</BTNCancel>					
+			<BTNdirection>BTNdirection</BTNdirection>
+			<BTNokName>OK</BTNokName>
+			<BTNpriority_Name>Priority</BTNpriority_Name>
+			<BTNnewServiceCallId>New Service Call</BTNnewServiceCallId>
+			<BTNsubmit_ID>Submit</BTNsubmit_ID>
+			<BTNaddContact_Name>Add contact</BTNaddContact_Name>
+			<BTNdeleteDraft>Delete Draft</BTNdeleteDraft>
+			<BTNclearText>Clear text</BTNclearText>
+			<BTNdelete>Delete</BTNdelete>
+			<BTNkeyboardDelete>delete</BTNkeyboardDelete>
+			<BtnkeyboardMoreNumbers>more, numbers</BtnkeyboardMoreNumbers>
+			<BTNrefresh_Name>Refresh</BTNrefresh_Name>
+			<BTNsend>Send</BTNsend>
+			<BTNseeAll_ID>See All</BTNseeAll_ID>
+			<BTNsave>Save</BTNsave>
+			
+		</Buttons>
+		
+		
+		<TextFields>
+			<TEXTFIELDemailID>Username</TEXTFIELDemailID>
+			<TEXTFIELDpasswordID>Password</TEXTFIELDpasswordID>
+			<TEXTFIELDenvironmentLabel>Required</TEXTFIELDenvironmentLabel>
+			<TEXTFIELDdistributionServerURL>https://www.example.com</TEXTFIELDdistributionServerURL>
+			<TEXTFIELDendpointURL>Endpoint URL</TEXTFIELDendpointURL>
+		
+			
+			
+
+			
+			</TextFields>
+		
+		
+		
+		<CheckBox>
+		    <Checkbox_rememberme_ID></Checkbox_rememberme_ID>	    
+		</CheckBox>
+				
+			    
+		<scrollDown>down</scrollDown>
+	   	<scrollUp>up</scrollUp>
+		<ConnectionAIRPLANE_MODE>AIRPLANE_MODE</ConnectionAIRPLANE_MODE>
+		<ConnectionWIFI>WIFI</ConnectionWIFI>
+		<CoonectionDATA>DATA</CoonectionDATA>
+		<ConnectionALL>ALL</ConnectionALL>
+
+		<InvalidRecoverEmailName></InvalidRecoverEmailName>
+		<ConfCodeIncorrectName></ConfCodeIncorrectName>
+		<DashboardName>Dashboard </DashboardName>
+		<SalesName>Sales</SalesName>
+		<ReturnsName>Returns</ReturnsName>
+		<NetSalesName>Net Sales</NetSalesName>
+		
+		<DailySalesBarID>Daily Sales</DailySalesBarID>
+		<DailysalesPieID>Daily sales - Pie</DailysalesPieID>
+		<DestinyUSAID>Destiny USA</DestinyUSAID>
+		<Last12hoursID>Last 12 hours</Last12hoursID>
+		<BranchID>Branch</BranchID>
+		<DailySalesID>Daily Sales</DailySalesID>
+		<ServiceCallsID>Service Calls</ServiceCallsID>
+		<ServiceCallsMapID>Service Calls Map</ServiceCallsMapID>
+		<CameraPemissions_ID>“SkyGiraffe” Would Like to Access the Camera</CameraPemissions_ID>
+		<ContactsPermissionsName>“SkyGiraffe” Would Like to Access Your Contacts</ContactsPermissionsName>
+		<MallOfAmerica_Id>Mall of America</MallOfAmerica_Id>
+		<OrderLookup_ID>Order Lookup</OrderLookup_ID>
+		<TabBarTitle_Name>BarTitle</TabBarTitle_Name>
+
+	
+	<Icon>
+			
+		<IconLoginSettings>icon gear</IconLoginSettings>
+		<IconCancelENV>icon cancel</IconCancelENV>
+		
+		
+		<Iconaction_icon_green_Name>action_icon_green</Iconaction_icon_green_Name>
+		<Icon_AllApps_Name>M</Icon_AllApps_Name>
+		<IconBack>Back</IconBack>
+		<IconBack_Nav_Name>back nav</IconBack_Nav_Name>
+		<IconApplicationInfo_Name>Icon_i</IconApplicationInfo_Name>
+		<Icon_Map_Navigation>Icon_Map_Navigation</Icon_Map_Navigation>
+		<Icon_PieChart_Navigation>Icon_PieChart_Navigation</Icon_PieChart_Navigation>
+		<Icon_BarChart_Navigation>Icon_BarChart_Navigation</Icon_BarChart_Navigation>
+	
+	</Icon>
+	
+	
+		   	
+<!-- 	   	General Info -->
+		<UserProd>meny1@skygiraffe.com</UserProd>
+		<passwordProd>Trustno1</passwordProd>
+		<userQA>appium@v6.com</userQA>
+		<passwordQA>123</passwordQA>
+		<badPassword>incorrectPassword</badPassword>
+		<StartupApplication>SQL Golden App</StartupApplication>
+		<UserNoAppsPermissions>noapps@1.com</UserNoAppsPermissions>
+		<UserinActive>inActive@1.com</UserinActive>
+	
+</Data>

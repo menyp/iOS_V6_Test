@@ -1,0 +1,9 @@
+{
+    "id": "00000000-0000-0000-0000-000000000003",
+    "name": "Development",
+    "type": "SG",
+    "authenticationURL": "http://sgds-dev.cloudapp.net/auth/oauth2/token",
+    "publisherURL": "http://sgds-dev.cloudapp.net/PublisherAPIV2/api/V2",
+    "client_id": "099153c2625149bc8ecb3e85e03f0022",
+    "client_secret": "IxrAjDoa2FqElO7IhrSrUJELhUckePEPVpaePlS_Xaw"
+}

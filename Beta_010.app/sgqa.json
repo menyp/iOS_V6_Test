@@ -1,0 +1,9 @@
+{
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "QA",
+    "type": "SG",
+    "authenticationURL": "https://sgwin2012r2.skygiraffe.com/SkyGiraffeAuthorizationServer/oauth2/token",
+    "publisherURL": "https://sgwin2012r2.skygiraffe.com/publisher/api/v2",
+    "client_id": "099153c2625149bc8ecb3e85e03f0022",
+    "client_secret": "IxrAjDoa2FqElO7IhrSrUJELhUckePEPVpaePlS_Xaw"
+}

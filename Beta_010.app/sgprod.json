@@ -1,0 +1,9 @@
+{
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Production",
+    "type": "SG",
+    "authenticationURL": "https://publisher.skygiraffe.com/auth/oauth2/token",
+    "publisherURL": "https://publisher.skygiraffe.com/api/v2",
+    "client_id": "099153c2625149bc8ecb3e85e03f0022",
+    "client_secret": "IxrAjDoa2FqElO7IhrSrUJELhUckePEPVpaePlS_Xaw"
+}

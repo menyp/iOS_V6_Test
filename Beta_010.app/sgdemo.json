@@ -1,0 +1,9 @@
+{
+    "id": "00000000-0000-0000-0000-000000000009",
+    "name": "Demo",
+    "type": "SG",
+    "authenticationURL": "https://demo.skygiraffe.com/Authorization/oauth2/token",
+    "publisherURL": "https://demo.skygiraffe.com/SGPublisher/api/V2",
+    "client_id": "099153c2625149bc8ecb3e85e03f0022",
+    "client_secret": "IxrAjDoa2FqElO7IhrSrUJELhUckePEPVpaePlS_Xaw"
+}
